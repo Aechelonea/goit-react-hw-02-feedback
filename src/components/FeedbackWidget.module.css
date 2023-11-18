@@ -1,0 +1,43 @@
+.feedbackWidget {
+  text-align: center;
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: 30px auto;
+}
+
+.feedbackWidget h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.feedbackWidget button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.feedbackWidget button:hover {
+  background-color: #45a049;
+}
+
+.feedbackWidget h2 {
+  color: #333;
+  margin-top: 30px;
+}
+
+.feedbackWidget p {
+  color: #666;
+  margin: 5px 0;
+}

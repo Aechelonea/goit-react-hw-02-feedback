@@ -1,0 +1,9 @@
+.section {
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.section h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
